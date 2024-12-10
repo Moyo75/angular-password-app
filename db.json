@@ -1,0 +1,34 @@
+{
+  "passwords": [
+    {
+      "id": "1",
+      "category": "work",
+      "app": "outlook",
+      "userName": "testuser@mytest.com",
+      "encryptedPassword": "TXlQYXNzd29yZEAxMjM="
+    },
+    {
+      "id": "2",
+      "category": "school",
+      "app": "messenger",
+      "userName": "testuser@mytest.com",
+      "encryptedPassword": "TmV3UGFzc3dvcmRAMTIz"
+    },
+    {
+      "id": "c1fd",
+      "category": "personal",
+      "app": "gmail",
+      "userName": "testuser@gmail.com",
+      "password": "om\tAdemoye7654",
+      "encryptedPassword": "b20JQWRlbW95ZTc2NTQ="
+    },
+    {
+      "id": "b9ab",
+      "category": "private",
+      "app": "yahoo",
+      "userName": "testuser@gmail.com",
+      "password": "qwertzuiohgfdsa",
+      "encryptedPassword": "cXdlcnR6dWlvaGdmZHNh"
+    }
+  ]
+}
